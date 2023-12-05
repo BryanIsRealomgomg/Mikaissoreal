@@ -58,5 +58,5 @@ document.addEventListener('scroll', function() {
 
 function openNewPage() {
     // Replace 'your-new-page.html' with the actual path to the new HTML page
-    window.location.href = 'http://localhost:50431/storage/emulated/0/html%20/admirer/new.html' ;
+    window.location.href = 'https://bryanisrealomgomg.github.io/Mikasaurus/new.html' ;
 }
